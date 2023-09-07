@@ -1,9 +1,9 @@
 print("CALCULATOR\n")
 
-a = input("")
+a = input()
 a1 = int(a)
 b = input("")
-c = input("")
+c = input("Enter num2: ")
 c1 = int(c)
 
 
